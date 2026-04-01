@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
     <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Podgląd aplikacji — Widok dzienny i responsywny navbar" width="90%"/>
   </a>
   <br/><sub><i>Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -95,7 +95,7 @@
 ### Widok dzienny — Responsywność i nawigacja mobilna
 
 <p align="center">
-  <a href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
     <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Widok dzienny — Responsywność i mobilny navbar" width="90%"/>
   </a>
   <br/><sub><i>Widok dzienny — pełna responsywność na wszystkich breakpointach + mobilny boczny navbar · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -104,7 +104,7 @@
 ### Widok tygodniowy — Responsywność
 
 <p align="center">
-  <a href="BestFormPT/gifs/week-view-responsibility.gif">
+  <a target="_blank" href="BestFormPT/gifs/week-view-responsibility.gif">
     <img src="BestFormPT/gifs/week-view-responsibility.gif" alt="Widok tygodniowy — Responsywność" width="90%"/>
   </a>
   <br/><sub><i>Widok tygodniowy płynnie dostosowuje się od desktopu do telefonu · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -113,14 +113,14 @@
 ### Widok miesięczny — Responsywność i wydarzenia cykliczne
 
 <p align="center">
-  <a href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
     <img src="BestFormPT/gifs/month-view-responsibility-showcase.gif" alt="Widok miesięczny — Responsywność" width="90%"/>
   </a>
   <br/><sub><i>Responsywność widoku miesięcznego na wszystkich urządzeniach · Kliknij, aby otworzyć pełny ekran</i></sub>
 </p>
 
 <p align="center">
-  <a href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
+  <a target="_blank" href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
     <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Widok miesięczny — Wyświetlanie treningów i dodawanie wydarzeń rocznych" width="90%"/>
   </a>
   <br/><sub><i>Widok miesięczny — przeglądanie treningów i planowanie wydarzeń cyklicznych · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -135,7 +135,7 @@
 ### Drag & Drop — Dodawanie wydarzenia + Snackbar sukcesu / ostrzeżenia
 
 <p align="center">
-  <a href="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif">
+  <a target="_blank" href="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif">
     <img src="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif" alt="Drag and drop — dodawanie wydarzenia ze snackbarem sukcesu i ostrzeżenia" width="90%"/>
   </a>
   <br/><sub><i>Przeciągnij kartę na kalendarz, aby utworzyć wydarzenie — snackbary sukcesu i ostrzeżenia dają natychmiastowy feedback · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -144,7 +144,7 @@
 ### Drag & Drop — Zmiana rozmiaru, czasu i trenera
 
 <p align="center">
-  <a href="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif">
+  <a target="_blank" href="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif">
     <img src="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif" alt="Drag and drop — zmiana rozmiaru i czasu wydarzenia oraz zmiana trenera" width="90%"/>
   </a>
   <br/><sub><i>Zmień rozmiar, przesuń slot czasowy lub przypisz innego trenera — wszystko przez drag · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -153,7 +153,7 @@
 ### Drag & Drop — Błąd walidacji (czas musi być w przyszłości)
 
 <p align="center">
-  <a href="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif">
+  <a target="_blank" href="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif">
     <img src="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif" alt="Drag and drop — błąd przy przeciąganiu na przeszły slot czasowy" width="90%"/>
   </a>
   <br/><sub><i>Walidacja serwerowa wychwytuje planowanie w przeszłości — natychmiast wyświetlany jest snackbar błędu · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -162,7 +162,7 @@
 ### Widok tygodniowy — Przewijanie krawędzi, dodawanie wydarzeń i nawigacja
 
 <p align="center">
-  <a href="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif">
+  <a target="_blank" href="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif">
     <img src="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif" alt="Widok tygodniowy — przewijanie krawędzi podczas drag, dodawanie wydarzeń i nawigacja" width="90%"/>
   </a>
   <br/><sub><i>Automatyczne przewijanie aktywuje się przy przeciąganiu w pobliżu krawędzi ekranu — płynne, natywne doświadczenie · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -173,7 +173,7 @@
 ## 🌓 Tryb ciemny / jasny
 
 <p align="center">
-  <a href="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif">
     <img src="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif" alt="Przełącznik trybu ciemnego i jasnego we wszystkich widokach kalendarza" width="90%"/>
   </a>
   <br/><sub><i>Przełącznik motywu jednym kliknięciem — tryb ciemny i jasny we wszystkich widokach · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -208,7 +208,7 @@
 > Planowanie powtarzających się wydarzeń przy użyciu formularza.
 
 <p align="center">
-  <a href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
+  <a target="_blank" href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
     <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Widok miesięczny — wyświetlanie treningów i dodawanie wydarzeń rocznych" width="90%"/>
   </a>
   <br/><sub><i>Przeglądanie istniejących sesji treningowych i dodawanie wydarzeń cyklicznych · Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -223,15 +223,15 @@
 ### Rejestracja — Formularz wieloetapowy
 
 <p align="center">
-  <a href="BestFormPT/screenshots/7.1-app-new-user-form.png">
+  <a target="_blank" href="BestFormPT/screenshots/7.1-app-new-user-form.png">
     <img src="BestFormPT/screenshots/7.1-app-new-user-form.png" alt="Rejestracja — Krok 1" width="32%"/>
   </a>
   &nbsp;
-  <a href="BestFormPT/screenshots/7.2-app-new-user-form.png">
+  <a target="_blank" href="BestFormPT/screenshots/7.2-app-new-user-form.png">
     <img src="BestFormPT/screenshots/7.2-app-new-user-form.png" alt="Rejestracja — Krok 2" width="32%"/>
   </a>
   &nbsp;
-  <a href="BestFormPT/screenshots/7.3-app-new-user-form.png">
+  <a target="_blank" href="BestFormPT/screenshots/7.3-app-new-user-form.png">
     <img src="BestFormPT/screenshots/7.3-app-new-user-form.png" alt="Rejestracja — Krok 3" width="32%"/>
   </a>
 </p>
@@ -251,7 +251,7 @@
 > Bezpieczne, minimalistyczne logowanie dla trenerów i klientów.
 
 <p align="center">
-  <a href="BestFormPT/screenshots/10-app-login-page-screenshot.png">
+  <a target="_blank" href="BestFormPT/screenshots/10-app-login-page-screenshot.png">
     <img src="BestFormPT/screenshots/10-app-login-page-screenshot.png" alt="Strona logowania" width="60%"/>
   </a>
   <br/><sub><i>Kliknij, aby otworzyć pełny ekran</i></sub>
@@ -290,7 +290,7 @@
 </p>
 
 <p align="center">
-  <a href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
     <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="App Preview — Day View & Responsive Navbar" width="90%"/>
   </a>
   <br/><sub><i>Click to open full screen</i></sub>
@@ -355,7 +355,7 @@
 ### Day View — Responsive & Mobile Navigation
 
 <p align="center">
-  <a href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
     <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Day View — Responsive design and mobile navbar" width="90%"/>
   </a>
   <br/><sub><i>Day view — full responsiveness across breakpoints + mobile side navbar · Click to open full screen</i></sub>
@@ -364,7 +364,7 @@
 ### Week View — Responsive
 
 <p align="center">
-  <a href="BestFormPT/gifs/week-view-responsibility.gif">
+  <a target="_blank" href="BestFormPT/gifs/week-view-responsibility.gif">
     <img src="BestFormPT/gifs/week-view-responsibility.gif" alt="Week View — Responsive" width="90%"/>
   </a>
   <br/><sub><i>Week view adapts seamlessly from desktop to mobile · Click to open full screen</i></sub>
@@ -373,14 +373,14 @@
 ### Month View — Responsive & Annual Events
 
 <p align="center">
-  <a href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
     <img src="BestFormPT/gifs/month-view-responsibility-showcase.gif" alt="Month View — Responsive" width="90%"/>
   </a>
   <br/><sub><i>Month view responsiveness across all devices · Click to open full screen</i></sub>
 </p>
 
 <p align="center">
-  <a href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
+  <a target="_blank" href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
     <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month View — Training display and adding annual events" width="90%"/>
   </a>
   <br/><sub><i>Month view — viewing trainings and scheduling annual (recurring) events · Click to open full screen</i></sub>
@@ -395,7 +395,7 @@
 ### Drag & Drop — Adding Event + Success / Warning Snackbar
 
 <p align="center">
-  <a href="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif">
+  <a target="_blank" href="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif">
     <img src="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif" alt="Drag and drop — adding event with success and warning snackbar feedback" width="90%"/>
   </a>
   <br/><sub><i>Drag a card onto the calendar to create an event — success and warning snackbars provide instant feedback · Click to open full screen</i></sub>
@@ -404,7 +404,7 @@
 ### Drag & Drop — Resize, Change Time & Trainer
 
 <p align="center">
-  <a href="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif">
+  <a target="_blank" href="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif">
     <img src="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif" alt="Drag and drop — resizing event and changing time and trainer" width="90%"/>
   </a>
   <br/><sub><i>Resize events, shift their time slot, or reassign to a different trainer — all via drag · Click to open full screen</i></sub>
@@ -413,7 +413,7 @@
 ### Drag & Drop — Validation Error (Time Must Be in the Future)
 
 <p align="center">
-  <a href="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif">
+  <a target="_blank" href="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif">
     <img src="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif" alt="Drag and drop — error when dragging to a past time slot" width="90%"/>
   </a>
   <br/><sub><i>Server-side validation catches past-time scheduling — an error snackbar is shown immediately · Click to open full screen</i></sub>
@@ -422,7 +422,7 @@
 ### Week View — Edge Scrolling, Adding Events & Navigation
 
 <p align="center">
-  <a href="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif">
+  <a target="_blank" href="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif">
     <img src="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif" alt="Week view — edge scrolling while dragging, adding events, and navigation" width="90%"/>
   </a>
   <br/><sub><i>Edge auto-scroll activates when dragging near viewport boundaries — smooth, native-feeling experience · Click to open full screen</i></sub>
@@ -433,7 +433,7 @@
 ## 🌓 Dark / Light Mode
 
 <p align="center">
-  <a href="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif">
+  <a target="_blank" href="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif">
     <img src="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif" alt="Dark to light mode toggle showcase across all calendar views" width="90%"/>
   </a>
   <br/><sub><i>One-click theme toggle — dark and light modes across all calendar views · Click to open full screen</i></sub>
@@ -468,7 +468,7 @@
 > Scheduling recurring events with form.
 
 <p align="center">
-  <a href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
+  <a target="_blank" href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
     <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month view — displaying trainings and adding annual events" width="90%"/>
   </a>
   <br/><sub><i>Viewing existing training sessions and adding recurring events in month view · Click to open full screen</i></sub>
@@ -483,15 +483,15 @@
 ### Registration — Multi-Step Form
 
 <p align="center">
-  <a href="BestFormPT/screenshots/7.1-app-new-user-form.png">
+  <a target="_blank" href="BestFormPT/screenshots/7.1-app-new-user-form.png">
     <img src="BestFormPT/screenshots/7.1-app-new-user-form.png" alt="Registration Step 1" width="32%"/>
   </a>
   &nbsp;
-  <a href="BestFormPT/screenshots/7.2-app-new-user-form.png">
+  <a target="_blank" href="BestFormPT/screenshots/7.2-app-new-user-form.png">
     <img src="BestFormPT/screenshots/7.2-app-new-user-form.png" alt="Registration Step 2" width="32%"/>
   </a>
   &nbsp;
-  <a href="BestFormPT/screenshots/7.3-app-new-user-form.png">
+  <a target="_blank" href="BestFormPT/screenshots/7.3-app-new-user-form.png">
     <img src="BestFormPT/screenshots/7.3-app-new-user-form.png" alt="Registration Step 3" width="32%"/>
   </a>
 </p>
@@ -511,7 +511,7 @@
 > Secure, minimal login experience for trainers and clients.
 
 <p align="center">
-  <a href="BestFormPT/screenshots/10-app-login-page-screenshot.png">
+  <a target="_blank" href="BestFormPT/screenshots/10-app-login-page-screenshot.png">
     <img src="BestFormPT/screenshots/10-app-login-page-screenshot.png" alt="Login Page" width="60%"/>
   </a>
   <br/><sub><i>Click to open full screen</i></sub>
