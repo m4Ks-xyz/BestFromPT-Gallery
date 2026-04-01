@@ -46,7 +46,7 @@
 - [🌓 Tryb ciemny / jasny](#-tryb-ciemny--jasny)
 - [📋 Nawigacja i filtry](#-nawigacja-i-filtry)
 - [📝 Okno tworzenia wydarzeń](#-okno-tworzenia-wydarzeń)
-- [📅 Wydarzenia cykliczne](#-wydarzenia-cykliczne-roczne)
+- [📅 Wydarzenia cykliczne](#-wydarzenia-cykliczne)
 - [👤 Rejestracja i aktywacja konta](#-rejestracja-i-aktywacja-konta)
 - [🔐 Strona logowania](#-strona-logowania)
 
@@ -306,7 +306,7 @@
 - [🌓 Dark / Light Mode](#-dark--light-mode)
 - [📋 Navigation & Filters](#-navigation--filters)
 - [📝 Event Creation Dialog](#-event-creation-dialog)
-- [📅 Recurring Events](#-annual-events)
+- [📅 Recurring Events](#-recurring-events)
 - [👤 User Registration & Activation](#-user-registration--activation)
 - [🔐 Login Page](#-login-page)
 
