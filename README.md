@@ -46,7 +46,7 @@
 - [🌓 Tryb ciemny / jasny](#-tryb-ciemny--jasny)
 - [📋 Nawigacja i filtry](#-nawigacja-i-filtry)
 - [📝 Okno tworzenia wydarzeń](#-okno-tworzenia-wydarzeń)
-- [📅 Wydarzenia cykliczne (roczne)](#-wydarzenia-cykliczne-roczne)
+- [📅 Wydarzenia cykliczne](#-wydarzenia-cykliczne-roczne)
 - [👤 Rejestracja i aktywacja konta](#-rejestracja-i-aktywacja-konta)
 - [🔐 Strona logowania](#-strona-logowania)
 
@@ -306,7 +306,7 @@
 - [🌓 Dark / Light Mode](#-dark--light-mode)
 - [📋 Navigation & Filters](#-navigation--filters)
 - [📝 Event Creation Dialog](#-event-creation-dialog)
-- [📅 Annual Events](#-annual-events)
+- [📅 Recurring Events](#-annual-events)
 - [👤 User Registration & Activation](#-user-registration--activation)
 - [🔐 Login Page](#-login-page)
 
@@ -370,7 +370,7 @@
   <br/><sub><i>Week view adapts seamlessly from desktop to mobile · Click to open the file</i></sub>
 </p>
 
-### Month View — Responsive & Annual Events
+### Month View — Responsive & Recurring Events
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
@@ -383,7 +383,7 @@
   <a  href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
     <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month View — Training display and adding annual events" width="90%"/>
   </a>
-  <br/><sub><i>Month view — viewing trainings and scheduling annual (recurring) events · Click to open the file</i></sub>
+  <br/><sub><i>Month view — viewing trainings and scheduling recurring events · Click to open the file</i></sub>
 </p>
 
 ---
