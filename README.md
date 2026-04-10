@@ -31,7 +31,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
-    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Podgląd aplikacji - Widok dzienny i responsywny navbar" width="90%"/>
+    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Podgląd aplikacji - Widok dzienny i responsywny navbar · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -96,35 +96,50 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
-    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Widok dzienny - Responsywność i mobilny navbar" width="90%"/>
+    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Widok dzienny - Responsywność i mobilny navbar · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Widok dzienny - pełna responsywność na wszystkich breakpointach + mobilny boczny navbar · Kliknij, aby przejść do pliku</i></sub>
 </p>
+
+|                                                          🖥️ Widok dzienny (Komputer)                                                           |                                                                   📱 Widok dzienny (Telefon)                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Day Desktop](BestFormPT/screenshots/1-app-calendar-screenshot-day-view.png)](BestFormPT/screenshots/1-app-calendar-screenshot-day-view.png) | [![Day Mobile](BestFormPT/screenshots/1.1-app-calendar-screenshot-day-view-mobile.png)](BestFormPT/screenshots/1.1-app-calendar-screenshot-day-view-mobile.png) |
+|                                                           _Widok dzienny - desktop_                                                            |                                                                    _Widok dzienny - mobile_                                                                     |
 
 ### Widok tygodniowy - Responsywność
 
 <p align="center">
   <a  href="BestFormPT/gifs/week-view-responsibility.gif">
-    <img src="BestFormPT/gifs/week-view-responsibility.gif" alt="Widok tygodniowy - Responsywność" width="90%"/>
+    <img src="BestFormPT/gifs/week-view-responsibility.gif" alt="Widok tygodniowy - Responsywność · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Widok tygodniowy płynnie dostosowuje się od desktopu do telefonu · Kliknij, aby przejść do pliku</i></sub>
 </p>
+
+|                                                 🖥️ Widok tygodniowy (Komputer)                                                  |                                                        📱 Widok tygodniowy (Telefon)                                                         |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Week Desktop](BestFormPT/screenshots/1.2-app-calendar-week-view.png)](BestFormPT/screenshots/1.2-app-calendar-week-view.png) | [![Week Mobile](BestFormPT/screenshots/1.3-app-calendar-week-view-mobile.png)](BestFormPT/screenshots/1.3-app-calendar-week-view-mobile.png) |
+|                                                  _Widok tygodniowy - desktop_                                                   |                                                         _Widok tygodniowy - mobile_                                                          |
 
 ### Widok miesięczny - Responsywność i wydarzenia cykliczne
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
-    <img src="BestFormPT/gifs/month-view-responsibility-showcase.gif" alt="Widok miesięczny - Responsywność" width="90%"/>
+    <img src="BestFormPT/gifs/month-view-responsibility-showcase.gif" alt="Widok miesięczny - Responsywność · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Responsywność widoku miesięcznego na wszystkich urządzeniach · Kliknij, aby przejść do pliku</i></sub>
 </p>
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
-    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Widok miesięczny - Wyświetlanie treningów i dodawanie wydarzeń rocznych" width="90%"/>
+    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Widok miesięczny - Wyświetlanie treningów i dodawanie wydarzeń rocznych · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Widok miesięczny - przeglądanie treningów i planowanie wydarzeń cyklicznych · Kliknij, aby przejść do pliku</i></sub>
 </p>
+
+|                                                                 🖥️ Wszyscy pracownicy i ich wydarzenia                                                                 |                                                                    🖥️ Widok dla konkretnego klienta (Komputer)                                                                    |                                                       📱 Widok dla konkretnego klienta (Telefon)                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Month All](BestFormPT/screenshots/1.4-app-calendar-month_all_employees_all_events.png)](BestFormPT/screenshots/1.4-app-calendar-month_all_employees_all_events.png) | [![Month Client Desktop](BestFormPT/screenshots/1.5-app-calendar-month-view-for-specific-client.png)](BestFormPT/screenshots/1.5-app-calendar-month-view-for-specific-client.png) | [![Month Client Mobile](BestFormPT/screenshots/1.6-app-calendar-month-view-mobile.png)](BestFormPT/screenshots/1.6-app-calendar-month-view-mobile.png) |
+|                                                                _Widok miesięczny - wszyscy pracownicy_                                                                 |                                                                       _Widok miesięczny - konkretny klient_                                                                       |                                                              _Widok miesięczny - mobile_                                                               |
 
 ---
 
@@ -136,7 +151,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif">
-    <img src="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif" alt="Drag and drop - dodawanie wydarzenia ze snackbarem sukcesu i ostrzeżenia" width="90%"/>
+    <img src="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif" alt="Drag and drop - dodawanie wydarzenia ze snackbarem sukcesu i ostrzeżenia · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Przeciągnij kartę na kalendarz, aby utworzyć wydarzenie - snackbary sukcesu i ostrzeżenia dają natychmiastowy feedback · Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -145,7 +160,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif">
-    <img src="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif" alt="Drag and drop - zmiana rozmiaru i czasu wydarzenia oraz zmiana trenera" width="90%"/>
+    <img src="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif" alt="Drag and drop - zmiana rozmiaru i czasu wydarzenia oraz zmiana trenera · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Zmień rozmiar, przesuń slot czasowy lub przypisz innego trenera - wszystko przez drag · Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -154,7 +169,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif">
-    <img src="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif" alt="Drag and drop - błąd przy przeciąganiu na przeszły slot czasowy" width="90%"/>
+    <img src="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif" alt="Drag and drop - błąd przy przeciąganiu na przeszły slot czasowy · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Walidacja serwerowa wychwytuje planowanie w przeszłości - natychmiast wyświetlany jest snackbar błędu · Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -163,7 +178,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif">
-    <img src="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif" alt="Widok tygodniowy - przewijanie krawędzi podczas drag, dodawanie wydarzeń i nawigacja" width="90%"/>
+    <img src="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif" alt="Widok tygodniowy - przewijanie krawędzi podczas drag, dodawanie wydarzeń i nawigacja · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Automatyczne przewijanie aktywuje się przy przeciąganiu w pobliżu krawędzi ekranu - płynne, natywne doświadczenie · Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -174,7 +189,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif">
-    <img src="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif" alt="Przełącznik trybu ciemnego i jasnego we wszystkich widokach kalendarza" width="90%"/>
+    <img src="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif" alt="Przełącznik trybu ciemnego i jasnego we wszystkich widokach kalendarza · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Przełącznik motywu jednym kliknięciem - tryb ciemny i jasny we wszystkich widokach · Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -185,7 +200,7 @@
 
 > Intuicyjna nawigacja z inteligentnym filtrowaniem klientów - zoptymalizowana pod workflow trenerów na wszystkich urządzeniach.
 
-|                                           🍔 Boczna nawigacja (Mobile)                                            |                                                           🔍 Filtr klientów (Desktop)                                                           |                                                        🔍 Filtr klientów (Mobile)                                                        |
+|                                           🍔 Boczna nawigacja (Telefon)                                           |                                                          🔍 Filtr klientów (Komputer)                                                           |                                                       🔍 Filtr klientów (Telefon)                                                        |
 | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | [![Side Nav](BestFormPT/screenshots/3-app-side-nav-mobile.png)](BestFormPT/screenshots/3-app-side-nav-mobile.png) | [![Filter Desktop](BestFormPT/screenshots/5-app-calendar-filters-screenshot.png)](BestFormPT/screenshots/5-app-calendar-filters-screenshot.png) | [![Filter Mobile](BestFormPT/screenshots/6-app-mobile-filter-screenshot.png)](BestFormPT/screenshots/6-app-mobile-filter-screenshot.png) |
 |                                              _Mobilny boczny navbar_                                              |                                                       _Panel filtrów klientów - desktop_                                                        |                                                    _Panel filtrów klientów - mobile_                                                     |
@@ -209,7 +224,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
-    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Widok miesięczny - wyświetlanie treningów i dodawanie wydarzeń rocznych" width="90%"/>
+    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Widok miesięczny - wyświetlanie treningów i dodawanie wydarzeń rocznych · Naciśnij, aby otworzyć GIF" width="90%"/>
   </a>
   <br/><sub><i>Przeglądanie istniejących sesji treningowych i dodawanie wydarzeń cyklicznych · Kliknij, aby przejść do pliku</i></sub>
 </p>
@@ -291,7 +306,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
-    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="App Preview - Day View & Responsive Navbar" width="90%"/>
+    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="App Preview - Day View & Responsive Navbar · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Click to open the file</i></sub>
 </p>
@@ -356,35 +371,50 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif">
-    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Day View - Responsive design and mobile navbar" width="90%"/>
+    <img src="BestFormPT/gifs/day-view-responsibility-and-mobile-navbar-showcase.gif" alt="Day View - Responsive design and mobile navbar · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Day view - full responsiveness across breakpoints + mobile side navbar · Click to open the file</i></sub>
 </p>
+
+|                                                             🖥️ Day View (Desktop)                                                              |                                                                      📱 Day View (Mobile)                                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Day Desktop](BestFormPT/screenshots/1-app-calendar-screenshot-day-view.png)](BestFormPT/screenshots/1-app-calendar-screenshot-day-view.png) | [![Day Mobile](BestFormPT/screenshots/1.1-app-calendar-screenshot-day-view-mobile.png)](BestFormPT/screenshots/1.1-app-calendar-screenshot-day-view-mobile.png) |
+|                                                              _Day view - desktop_                                                              |                                                                       _Day view - mobile_                                                                       |
 
 ### Week View - Responsive
 
 <p align="center">
   <a  href="BestFormPT/gifs/week-view-responsibility.gif">
-    <img src="BestFormPT/gifs/week-view-responsibility.gif" alt="Week View - Responsive" width="90%"/>
+    <img src="BestFormPT/gifs/week-view-responsibility.gif" alt="Week View - Responsive layout from desktop to mobile · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Week view adapts seamlessly from desktop to mobile · Click to open the file</i></sub>
 </p>
+
+|                                                     🖥️ Week View (Desktop)                                                      |                                                            📱 Week View (Mobile)                                                             |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Week Desktop](BestFormPT/screenshots/1.2-app-calendar-week-view.png)](BestFormPT/screenshots/1.2-app-calendar-week-view.png) | [![Week Mobile](BestFormPT/screenshots/1.3-app-calendar-week-view-mobile.png)](BestFormPT/screenshots/1.3-app-calendar-week-view-mobile.png) |
+|                                                      _Week view - desktop_                                                      |                                                             _Week view - mobile_                                                             |
 
 ### Month View - Responsive & Recurring Events
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-responsibility-showcase.gif">
-    <img src="BestFormPT/gifs/month-view-responsibility-showcase.gif" alt="Month View - Responsive" width="90%"/>
+    <img src="BestFormPT/gifs/month-view-responsibility-showcase.gif" alt="Month View - Responsive layout across all devices · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Month view responsiveness across all devices · Click to open the file</i></sub>
 </p>
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
-    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month View - Training display and adding annual events" width="90%"/>
+    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month View - Training display and adding annual events · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Month view - viewing trainings and scheduling recurring events · Click to open the file</i></sub>
 </p>
+
+|                                                                    🖥️ All Employees & Their Events                                                                     |                                                                         🖥️ Specific Client View (Desktop)                                                                         |                                                            📱 Specific Client View (Mobile)                                                            |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Month All](BestFormPT/screenshots/1.4-app-calendar-month_all_employees_all_events.png)](BestFormPT/screenshots/1.4-app-calendar-month_all_employees_all_events.png) | [![Month Client Desktop](BestFormPT/screenshots/1.5-app-calendar-month-view-for-specific-client.png)](BestFormPT/screenshots/1.5-app-calendar-month-view-for-specific-client.png) | [![Month Client Mobile](BestFormPT/screenshots/1.6-app-calendar-month-view-mobile.png)](BestFormPT/screenshots/1.6-app-calendar-month-view-mobile.png) |
+|                                                                      _Month view - all employees_                                                                      |                                                                          _Month view - specific client_                                                                           |                                                                 _Month view - mobile_                                                                  |
 
 ---
 
@@ -396,7 +426,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif">
-    <img src="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif" alt="Drag and drop - adding event with success and warning snackbar feedback" width="90%"/>
+    <img src="BestFormPT/gifs/drag-and-drop-adding-event-and-succes-and-warning-snackbar.gif" alt="Drag and drop - adding event with success and warning snackbar feedback · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Drag a card onto the calendar to create an event - success and warning snackbars provide instant feedback · Click to open the file</i></sub>
 </p>
@@ -405,7 +435,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif">
-    <img src="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif" alt="Drag and drop - resizing event and changing time and trainer" width="90%"/>
+    <img src="BestFormPT/gifs/drag-and-drop-updating-event-resizing-changing-time-and-trainer.gif" alt="Drag and drop - resizing event and changing time and trainer · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Resize events, shift their time slot, or reassign to a different trainer - all via drag · Click to open the file</i></sub>
 </p>
@@ -414,7 +444,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif">
-    <img src="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif" alt="Drag and drop - error when dragging to a past time slot" width="90%"/>
+    <img src="BestFormPT/gifs/drag-and-drop-updating-event-error-time-neds-to-be-in-future.gif" alt="Drag and drop - error when dragging to a past time slot · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Server-side validation catches past-time scheduling - an error snackbar is shown immediately · Click to open the file</i></sub>
 </p>
@@ -423,7 +453,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif">
-    <img src="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif" alt="Week view - edge scrolling while dragging, adding events, and navigation" width="90%"/>
+    <img src="BestFormPT/gifs/week-view-drag-and-drop-edge-scrolling-adding-events-and-navigation-buttons.gif" alt="Week view - edge scrolling while dragging, adding events, and navigation · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Edge auto-scroll activates when dragging near viewport boundaries - smooth, native-feeling experience · Click to open the file</i></sub>
 </p>
@@ -434,7 +464,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif">
-    <img src="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif" alt="Dark to light mode toggle showcase across all calendar views" width="90%"/>
+    <img src="BestFormPT/gifs/from-dark-to-light-mode-views-showcase.gif" alt="Dark to light mode toggle showcase across all calendar views · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>One-click theme toggle - dark and light modes across all calendar views · Click to open the file</i></sub>
 </p>
@@ -469,7 +499,7 @@
 
 <p align="center">
   <a  href="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif">
-    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month view - displaying trainings and adding annual events" width="90%"/>
+    <img src="BestFormPT/gifs/month-view-trainings-dispalying-and-adding-annual-events.gif" alt="Month view - displaying trainings and adding annual events · Tap to open GIF" width="90%"/>
   </a>
   <br/><sub><i>Viewing existing training sessions and adding recurring events in month view · Click to open the file</i></sub>
 </p>
